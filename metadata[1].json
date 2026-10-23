@@ -1,0 +1,6 @@
+{
+  "name": "VoltGrid DBMS - Energy Consumption Monitoring System",
+  "description": "Comprehensive DBMS AAT Project featuring real-time energy telemetry, smart appliance controls (AC, Fridge, TV, Washing Machine, Fans, Tube Light), relational database schema, live SQL console, and tariff analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
